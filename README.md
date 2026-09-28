@@ -27,23 +27,6 @@ I’m especially drawn to fields that still feel unfinished, where there are mor
 
 ---
 
-## ⚡ How I learn
-
-Usually by going way too deep. I like reading papers, rebuilding ideas from scratch, experimenting, breaking things, asking too many questions and turning whatever I’m learning into an actual project.
-
-My brain tends to work like this:
-
-**How does this actually work?**  
-**Why does it work this way?**  
-**Can I reproduce it?**  
-**Can I make it better?**  
-**What happens if I combine it with something completely different?**  
-**What would the version of this in 10 years look like?**
-
-That last question is probably the one I care about most.
-
----
-
 ## 🚀 What I want to do
 
 I want to work on things that are genuinely ambitious. Not just better apps or slightly more efficient systems, but technologies that change what computers and machines are capable of doing.
