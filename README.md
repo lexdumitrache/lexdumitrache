@@ -4,13 +4,9 @@ I'm a **Computer Science & Engineering student at Politecnico di Milano** and, m
 
 My main interests are around **AI, robotics, embodied intelligence, cognition and neuroscience**. I’m fascinated by intelligence itself: how it emerges, how biological systems achieve it, how we can reproduce parts of it computationally, and how we can build machines that understand and interact with the real world.
 
-But I’m also extremely multi-passionate, so I rarely stay inside one field for very long.
+But I’m also extremely multi-passionate, so I rarely stay inside one field for very long. I can go from reading about neural networks to brain dynamics, robotics, quantum physics, distributed systems, startups or some completely unrelated scientific rabbit hole in the same day.
 
-I can go from reading about neural networks to brain dynamics, robotics, quantum physics, distributed systems, startups or some completely unrelated scientific rabbit hole in the same day.
-
-And I actually like that.
-
-I don’t really want to specialize too early or force myself into one box. I’d rather become the kind of person who can **learn across disciplines, understand complex systems from first principles, connect ideas that normally live far apart, and use them to build things that didn’t exist before.**
+I aim to be the kind of person who can **learn across disciplines, understand complex systems from first principles, connect ideas that normally live far apart, and use them to build things that didn’t exist before.**
 
 ---
 
@@ -33,9 +29,7 @@ I’m especially drawn to fields that still feel unfinished, where there are mor
 
 ## ⚡ How I learn
 
-Usually by going way too deep.
-
-I like reading papers, rebuilding ideas from scratch, experimenting, breaking things, asking too many questions and turning whatever I’m learning into an actual project.
+Usually by going way too deep. I like reading papers, rebuilding ideas from scratch, experimenting, breaking things, asking too many questions and turning whatever I’m learning into an actual project.
 
 My brain tends to work like this:
 
