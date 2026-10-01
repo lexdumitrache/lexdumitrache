@@ -1,14 +1,17 @@
-# Hola, I'm Alexandra 👋
+Hola, I'm Alexandra 👋
 
-I'm a **Computer Science & Engineering student at Politecnico di Milano** and, more than anything, I’m obsessed with learning how things work and figuring out what can be built next.
+I'm a Computer Science & Engineering student at Politecnico di Milano, and more than anything I'm obsessed with learning how things work and figuring out what can be built next.
 
-My main interests are around **AI, robotics, embodied intelligence, cognition and neuroscience**. I’m fascinated by intelligence itself: how it emerges, how biological systems achieve it, how we can reproduce parts of it computationally, and how we can build machines that understand and interact with the real world.
+I'm fascinated by intelligence itself: how it emerges, how biological systems achieve it, how we can reproduce parts of it computationally, and how we can build machines that understand and interact with the real world.
 
-But I’m also extremely multi-passionate and love to **learn across disciplines, understand complex systems from first principles, connect ideas that normally live far apart, and use them to build things that didn’t exist before.**
+I also wander across disciplines a lot. I love understanding complex systems from first principles, connecting ideas that normally live far apart, and using them to build things that didn't exist before.
+Long term, I want to work at the edge of science, engineering, and intelligence, on technology that changes what computers and machines can do. I'm most interested in systems that can reason, perceive, learn, adapt, interact with the physical world, and help us understand things we currently can't.
+
+For now, I'm learning as much as I can and building my way there. :)
 
 ---
 
-## 🧠 Things I’m obsessed with
+Things I'm obsessed with
 
 - Artificial intelligence & machine learning
 - Robotics & embodied AI
@@ -18,20 +21,6 @@ But I’m also extremely multi-passionate and love to **learn across disciplines
 - Human-machine interaction
 - Complex systems
 - Quantum computing & quantum physics
-- Deep tech
-- Basically anything that makes me think **“wait, how is this even possible?”**
+- Basically anything that makes me think "wait, how is this even possible?"
 
-I’m especially drawn to fields that still feel unfinished, where there are more open questions than established answers.
-
----
-
-## 🚀 What I want to do
-
-I want to work on things that are genuinely ambitious. Not just better apps or slightly more efficient systems, but technologies that change what computers and machines are capable of doing.
-
-I’m interested in pushing toward systems that can **reason, perceive, learn, adapt, interact with the physical world and help us understand things we currently can’t.**
-
-Long term, I want to contribute to the kind of work that sits at the edge of **science, engineering and intelligence**, where the answers are not obvious yet.
-
-For now, I’m learning as much as I can and building my way there. :)
-
+I'm especially drawn to fields that still feel unfinished, where there are more open questions than established answers.
