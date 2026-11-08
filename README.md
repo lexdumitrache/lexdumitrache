@@ -10,18 +10,3 @@ Long term, I want to work at the edge of science, engineering, and intelligence,
 
 For now, I'm learning as much as I can and building my way there. :)
 
----
-
-Things I'm obsessed with
-
-- Artificial intelligence & machine learning
-- Robotics & embodied AI
-- Cognition & computational neuroscience
-- Neuromorphic and brain-inspired computing
-- AI for science
-- Human-machine interaction
-- Complex systems
-- Quantum computing & quantum physics
-- Basically anything that makes me think "wait, how is this even possible?"
-
-I'm especially drawn to fields that still feel unfinished, where there are more open questions than established answers.
